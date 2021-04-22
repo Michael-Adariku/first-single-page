@@ -1,0 +1,8 @@
+.dottedlines{
+    border-bottom:1px dotted gray ;
+    border-left: 100px double #17bd22 ;
+    width: 30%;
+    
+    padding-left: 50px;
+    margin-left: 50px;
+}
